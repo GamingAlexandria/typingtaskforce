@@ -29,7 +29,7 @@ Finally,:
 If you don't like the background music, change the data in lines 1790-1800 (one note at a time), and don't forget to add "END" at the end.
 
 Postscript:
-When GAME OVER, press space to start the game from the title, or press the right arrow key to start from the dead side. (Disclaimer: as far as I can tell, pressing the right arrow key, or any key other than space during the game over screen, does nothing. Either I made an error typing up the program, or this is false.
+When GAME OVER, press space to start the game from the title, or press the right arrow key to start from the dead side. (Disclaimer: as far as I can tell, pressing the right arrow key, or any key other than space during the game over screen, does nothing. Either I made an error typing up the program, or this is false.)
 
 Checker Flag: (in Micom Basic, this is a column where the Editor, as well as Dr. D, the magazine's fictional character who teaches readers to program a game in BASIC, discuss the game between themselves).
 Editor: It's a puzzle game, and it's quite difficult. 
