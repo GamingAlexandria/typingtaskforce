@@ -6,9 +6,13 @@ This can only be run on a PC-6001mkIISR or a PC-6601SR, in the N66SR-BASIC mode.
 Penkichi's voice lines:
 
 Kicking a life preserver: "I'm gonna kick your ass" (apparently, according to deepl)
+
 Beating a level: "Please ride this to go to the south pole"
+
 Starting the next level: "No, no, no. Something else?"
+
 Beating level 10: "Alright!"
+
 Beating your own constructed level: "Original round clear"
 
 DeepL magazine translation:
