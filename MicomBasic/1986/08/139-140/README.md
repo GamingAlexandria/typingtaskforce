@@ -4,6 +4,7 @@ Basic info:
 This can only be run on a PC-6001mkIISR or a PC-6601SR, in the N66SR-BASIC mode. Any other models or BASIC modes will not work. To start the program, simply enter "cload" and then enter "run". In the construction mode, you make your own level. You move the cursor with the arrow keys, place objects with the space bar, and press enter when you're done. The first object you place will be your penguin, Penkichi, the second will be the green life preserver, and then the rest of the objects will be the normal red life preservers. You only get one penguin and one goal. Pressing space on an object will make it cycle between all available remaining objects. Starting normally, or on your own constructed level, you play with the arrow keys to move Penkichi along the life preservers. You can push the life preservers across the water by pressing space and pushing the direction of the life preserver you want to push.
 
 Penkichi's voice lines:
+
 Kicking a life preserver: "I'm gonna kick your ass" (apparently, according to deepl)
 Beating a level: "Please ride this to go to the south pole"
 Starting the next level: "No, no, no. Something else?"
